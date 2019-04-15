@@ -4,4 +4,5 @@ An implementation of FFT in C using Decimation in Time Algorithm. The program us
 Run using:
 
 gcc fft.c -o foo -lm
+
 ./foo
