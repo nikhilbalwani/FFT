@@ -1,5 +1,5 @@
 /*
-This program is the implements fast fourier transform in C
+This program implements fast fourier transform in C
 */
 
 #include <stdio.h>
